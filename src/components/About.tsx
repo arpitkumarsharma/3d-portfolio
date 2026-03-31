@@ -6,12 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
-        </p>
+          I am currently working as subject Matter Expert at arcgate. Experienced Subject matter expert with a demonstrated history of working in the Software Testing and outsourcing/offshoring industry. Skilled in Microsoft Word, Data Research, Online Research, Business Service Management, Internal Audit, Analytical Skills, Service-Level Agreements (SLA),  Management Information Systems (MIS), Customer Relationship Management (CRM), Business Intelligence, Excel Reporting Dashboards and Data Visualization, Team Building and Management, Leadership. Strong professional with a Bachelor of Technology (B.Tech.) focused in Computer Science        </p>
       </div>
     </div>
   );
